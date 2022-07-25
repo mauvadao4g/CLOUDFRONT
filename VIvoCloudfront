@@ -1,0 +1,90 @@
+ 
+ {
+      "Name": "16-71🟢VIVO RECARGA🟢 3",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.70",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },  
+  {
+      "Name": "🟢VIVO RECARGA🟢 0",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.21",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+     "Name": "🟢VIVO RECARGA🟢 1",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.109",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+      }, 
+     {
+      "Name": "🟢VIVO RECARGA🟢 2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.122",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },  
+   { 
+      "Name": "🟣VIVO INTERNET🟢 1",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.182.10",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },  
+ {
+      "Name": "🟣VIVO INTERNET🟢 2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.182.5",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },  {
+      "Name": "🟣VIVO INTERNET🟢 3",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.182.79",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },  
+   {
+      "Name": "🟣VIVO INTERNET🟢 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.182.42",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },  
+     {
+      "Name": "41-55 🟢𝐕𝐈𝐕𝐎 𝐎𝐍🟢79-93",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2atqmv3qdduqq.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "13.35.118.119",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },  
